@@ -1,0 +1,11 @@
+.big {
+  font-size: x-large;
+}
+
+.button {
+  background-color: pink;
+  color: rgb(219, 32, 184);
+  padding: 0.5rem;
+  border: 1rem;
+  border-radius: 1rem;
+}
