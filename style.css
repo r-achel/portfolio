@@ -9,3 +9,9 @@
   border: 1rem;
   border-radius: 1rem;
 }
+
+.apple {
+  color: rgb(216, 124, 218);
+  font-size: medium;
+  font-weight: 400;
+}
